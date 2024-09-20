@@ -92,7 +92,7 @@ document.addEventListener('touchstart', jump);
 restartButton.addEventListener('click', restart);
 document.addEventListener('DOMContentLoaded', function() {
   // Criar o elemento de áudio
-  var audio = new Audio('https://kappa.vgmsite.com/soundtracks/super-mario-bros/jiqfbhrhqx/01.%20Ground%20Theme.mp3');
+  var audio = new Audio('https://raw.githubusercontent.com/3asyice/Mario-Bros/refs/heads/main/images/SUPER MARIO RUN (OFFICIAL TRAP REMIX).mp3');
 
   // Adicionar evento de clique ao documento
   document.addEventListener('click', function() {
